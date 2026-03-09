@@ -66,6 +66,19 @@ This repository explains the following OCI networking concepts:
 
 Each concept is explained in detail within the documentation folder.
 
+
+## OCI Networking Architecture
+
+![OCI Networking Architecture](architecture/oci-network-architecture.png)
+
+## Detailed Documentation
+
+- [VCN Overview](docs/vcn-overview.md)
+- [Subnet Design](docs/subnet-design.md)
+- [OCI Gateways](docs/gateways.md)
+- [Security Lists vs Network Security Groups](docs/security-lists-vs-nsg.md)
+- [Routing and Traffic Flow](docs/routing-and-traffic-flow.md)
+
 ---
 
 ## Learning Outcome
